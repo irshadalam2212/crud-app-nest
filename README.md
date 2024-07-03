@@ -23,27 +23,27 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Ne
 ### Backend (Nest.js)
 
 Clone the repository.
-1. git clone https://github.com/irshadalam2212/crud-app-nest.git
-   *cd crud-app-nest/backend*
+#### 1. git clone https://github.com/irshadalam2212/crud-app-nest.git
+   cd crud-app-nest/backend
    
-2. Install dependencies
+#### 2. Install dependencies
    npm install
 
-3. Start the Nest.js server
+#### 3. Start the Nest.js server
    npm run start
 
-4. Your backend server should now be running on http://localhost:4000.
+#### 4. Your backend server should now be running on http://localhost:4000.
 
 
 ### Frontend (React.js)
 
-1. Navigate to the frontend directory.
+#### 1. Navigate to the frontend directory.
    cd <project-folder>/frontend
 
-2. Install dependencies.
+#### 2. Install dependencies.
    npm install
 
-3. Start the React development server.
+#### 3. Start the React development server.
    npm start
 
-4. The React application should now be running on http://localhost:3000.
+#### 4. The React application should now be running on http://localhost:3000.
