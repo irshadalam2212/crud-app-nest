@@ -24,7 +24,7 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Ne
 
 Clone the repository.
 1. git clone https://github.com/irshadalam2212/crud-app-nest.git
-   cd crud-app-nest/backend
+   *cd crud-app-nest/backend*
    
 2. Install dependencies
    npm install
